@@ -46,10 +46,9 @@ Generating 5 new sentences in the style of Romeo and Juliet:
 
 ```
 1️⃣ Clone this repository  
-   git clone https://github.com/yourusername/Text-Generation-Markov-Chains.git
+   git clone https://github.com/renu-kg/PRODIGY_GA_03.git
 
 2️⃣ Navigate to the project folder  
-   cd Text-Generation-Markov-Chains
 
 3️⃣ Install dependencies  
    pip install markovify
@@ -72,7 +71,7 @@ It helped me explore the intersection of **creativity and AI** — turning plain
 ## 📎 Connect With Me  
 
 👩‍💻 **Renu K G**  
-🔗 [LinkedIn]([https://www.linkedin.com/in/renukg](https://www.linkedin.com/in/linkedin.com/in/renu-k-g-9aaa152a6/) 
-🌐 [GitHub](https://github.com/yourusername)  
+🔗 [LinkedIn](https://www.linkedin.com/in/linkedin.com/in/renu-k-g-9aaa152a6/) 
+🌐 [GitHub](https://github.com/renu-kg)  
 
 ---
