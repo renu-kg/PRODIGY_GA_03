@@ -68,10 +68,8 @@ It helped me explore the intersection of **creativity and AI** — turning plain
 
 ---
 
-## 📎 Connect With Me  
-
+## 📎 Connect With Me    
 👩‍💻 **Renu K G**  
-🔗 [LinkedIn](https://www.linkedin.com/in/linkedin.com/in/renu-k-g-9aaa152a6/) 
+🔗 [LinkedIn](https://www.linkedin.com/in/renu-k-g-9aaa152a6/)  
 🌐 [GitHub](https://github.com/renu-kg)  
-
 ---
